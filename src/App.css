@@ -44,7 +44,7 @@ body{
 }
 
 nav{
-  background: linear-gradient(90deg, rgb(39, 39, 39) 0%, rgb(56, 56, 56)5%, rgb(66, 66, 66) 100%);
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.712) 0%, rgb(20, 20, 20)5%, rgb(66, 66, 66) 100%);
   position: fixed;
   top: 0;
   width: 100vw;
